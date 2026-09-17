@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data — опционально, если не хотите заливать большие CSV
+# data/raw/*.xlsx
+# data/processed/*.csv
+
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
