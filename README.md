@@ -168,34 +168,3 @@ dzen-analysis/
     notebooks/02_modeling.ipynb — ML-эксперимент
 
 4. Открыть дашборд: dashboard/dzen_dashboard.pbix в Power BI Desktop.
-
-🚀 Что дальше
-Накопить 500+ статей и перезапустить ML с фичей «актуальность новости».
-
-A/B-тест заголовков: длинные с / vs короткие.
-
-Прогноз дохода канала по месяцам с учётом трансферных окон.
-
-## 🎯 Шаг 5. Проверьте имена файлов в `images/`
-
-README ссылается на 8 файлов. **Проверьте**, что они существуют с **точными** именами:
-images/
-├── pareto_curve.png
-├── categories_income.png
-├── clubs_efficiency.png
-├── top_club_effect.png
-├── income_weekly.png
-├── article_age.png
-├── dzen_feature_importance.png
-└── dashboard.png
-
-
-**Если чего-то нет** — либо сохраните график заново из тетрадки, либо **уберите блок** из README.
-
-## 🎯 Что показать мне
-
-1. **Список файлов в `images/`** — команда:
-   ```cmd
-   dir D:\Projects\dzen-analysis\images
-2. Список файлов в корне проекта — команда:
-dir D:\Projects\dzen-analysis
